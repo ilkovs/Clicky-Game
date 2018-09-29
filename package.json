@@ -21,6 +21,7 @@
     "deploy": "gh-pages -d build",
     "deploy": "gh-pages -b master -d build",
     "start": "react-scripts start",
-    "build": "react-scripts build"
+    "build": "react-scripts build",
+    "potato": "baked"
 }
 }
