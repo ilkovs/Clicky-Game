@@ -1,0 +1,38 @@
+[
+    {
+        "kind": "bear",
+        "image": "http://caccioppoli.com/Animated%20gifs/Bears/0146.gif"
+    },
+    {
+        "kind": "tiger",
+        "image": "http://bestanimations.com/Animals/Mammals/Cats/Tigers/animatedtiger-15.gif"
+    },
+    {
+        "kind": "turtle",
+        "image": "http://www.zebra0.com/resources/pictures/turtleswim.gif"
+    },
+    {
+        "kind": "zebra",
+        "image": "http://www.animatedimages.org/data/media/233/animated-zebra-image-0007.gif"
+    },
+    {
+        "kind": "pig",
+        "image": "http://rs1208.pbsrc.com/albums/cc377/acekhong/Acekhong-O-Pig%20animated/OPMSM-proud-150x150.gif~c200"
+    },
+    {
+        "kind": "squirrel",
+        "image": "https://media.giphy.com/media/ElqTrzFLekJhe/giphy.gif"
+    },
+    {
+        "kind": "rabbit",
+        "image": "http://www.magiclanterngraphics.com/bunny_painting_egg_lg_clr.gif"
+    },
+    {
+        "kind": "snake",
+        "image": "https://orig00.deviantart.net/47ee/f/2015/205/8/e/journal_doll__snake_topaz_by_xd001pika-d92p5l3.gif"
+    },
+    {
+        "kind": "farrot",
+        "image": "https://orig00.deviantart.net/8e9d/f/2016/118/c/8/felix_by_pooniefox-da0k4vg.gif"
+    }
+  ]
